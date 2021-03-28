@@ -4,6 +4,27 @@
 
 <b>A full-stack app that makes the job of both coolie and user easier. Now any user can simply click the button to book a coolie without any hustle.</b>
 
+# Project Demo
+
+[![Youtube](https://github.com/yuvaraj-06/Filling_Gaps/blob/main/WhatsApp%20Image%202021-03-28%20at%2011.12.28%20AM.jpeg)](https://youtu.be/opxH_B0yFKo)
+
+
+# Instructions to run application:
+
+
+      1. Go Ahead and download the apk from the link below.
+      
+      2. Install the downloaded apk on your phone.
+
+      3. Register yourself and experience the services. 
+
+      4. To run the app in debug mode you need to do the following.
+ 
+      5. Clone this repository on your desired directory.
+      
+      6. Head up to Android Studio and then Open an Exiting Project.
+      
+      7. Select this project directory and click on the run button.
 
 # Key-Features
 
@@ -51,3 +72,37 @@ Looking at many ongoing services outside the railway stations like ***Swiggy, Zo
         Architecture: MVVM
         
         Landing Page : HTML, CSS, Javascript
+        
+# ScreenShots
+
+### Splash Screen and On Boarding parts
+<img src="./Screenshots/home%20(2).png" width="200" height="400"> <img src="./Screenshots/liquid_animation_2.png" width="200" height="400"> <img src="./Screenshots/liquid_animation_1.png" width="200" height="400"> <img src="./Screenshots/liquid_animation_3.png" width="200" height="400">
+
+### User Dashboard and features
+<img src="./Screenshots/cust.png" width="200" height="400"> <img src="./Screenshots/booking.png" width="200" height="400"> <img src="./Screenshots/wheelchair.png" width="200" height="400"> <img src="./Screenshots/payment.png" width="200" height="400">
+
+### Other features
+<img src="./Screenshots/fares%20of%20coolie.png" width="200" height="400"> <img src="./Screenshots/all%20bookings.png" width="200" height="400"> <img src="./Screenshots/orderdetaisl.png" width="200" height="400"> 
+
+### Coolie Dashboard and features
+<img src="./Screenshots/coolie.png" width="200" height="400"> <img src="./Screenshots/cooliebkngspending.png" width="200" height="400"> <img src="./Screenshots/support.png" width="200" height="400">
+
+
+# Links:
+* [Download App](https://drive.google.com/file/d/18ht1HC51PrYMc1J1ALRM5BfZOIOy_N8n/view?usp=sharing)
+
+* [View Video](https://youtu.be/opxH_B0yFKo)
+
+* [View Landing Page](https://yuvaraj-06.github.io/Filling_Gaps/)
+
+* [Backend](https://github.com/yuvaraj-06/Filling_Gaps/tree/main/Backend-FastAPI)
+
+
+## Contributors ✨
+
+Reach out to us, if you liked this :)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/moit-bytes"><img src="https://avatars1.githubusercontent.com/u/53662024" width="100px;" alt=""/><br /><sub><b>Mohit Kumar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yuvaraj-06"><img src="https://avatars.githubusercontent.com/u/59510075?s=460&u=a616e4699b7ec42d662d05178568c193f2f44c45&v=4" width="100px;" alt=""/><br /><sub><b>Yuvaraj T</b></sub></a><br /></td>
+</table>
